@@ -20,3 +20,5 @@ well-suited for tasks like part-of-speech tagging, where the grammatical role of
 influenced by its neighboring words. By leveraging the power of RNNs, the developed application
 achieves enhanced accuracy and linguistic understanding in part-of-speech tagging for the
 Italian language.
+
+To get the EVALITA corpus, one must contact the EVALITA campaign.
